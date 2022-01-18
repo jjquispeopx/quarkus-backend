@@ -24,3 +24,7 @@ You are able to run the quarkus application locally using the command:
 You can find minimal [quickstart instructions at openshift-for-developers/postIt](https://github.com/openshift-for-developers/postIt).
 
 > *Note: this example app is derived from the [example at redhat-developer-demos/quarkus-reactjs-postit-app](https://github.com/redhat-developer-demos/quarkus-reactjs-postit-app).*
+
+### Token
+
+You are able to get openshift token using the command: ```oc whoami --show-token```
